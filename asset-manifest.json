@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Course_Goal/static/css/main.f3229784.css",
+    "main.js": "/React_Course_Goal/static/js/main.cac18fbf.js",
+    "index.html": "/React_Course_Goal/index.html",
+    "main.f3229784.css.map": "/React_Course_Goal/static/css/main.f3229784.css.map",
+    "main.cac18fbf.js.map": "/React_Course_Goal/static/js/main.cac18fbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3229784.css",
+    "static/js/main.cac18fbf.js"
+  ]
+}
